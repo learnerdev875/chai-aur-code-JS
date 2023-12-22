@@ -27,7 +27,7 @@ console.log(1+"2");
 console.log("1" + 2 + 2); // If string is at first, everything after it are converted to strings and concatenated
 console.log(1 + 2 + "2"); // If first are numbers, then operations are done and after that they are converted to string and concatenation happens
 console.log(1+true) // true is converted to number and its value is 1
-console.log(+true)
+console.log(+true) //1
 console.log(+"") //0
 
 //Prefix and postfix operators
