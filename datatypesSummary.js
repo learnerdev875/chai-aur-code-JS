@@ -46,3 +46,8 @@ console.log(typeof myFunction);
 // Array => object
 // Function => object function
 // Object => object
+
+// In languages such as C, its your job to reserve memory and free up them. JavaScript has automatic garbage collection. Programmers
+//do not have direct control on memory allocation and deallocation.
+
+//Two types of memory : Stack(used in primitive types) and Heap(used in non-primitive types)
